@@ -6,6 +6,8 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Eğitimi kapsamında açtığ�
 
 ``` git clone https://github.com/acaniko/kodluyoruzilkrepo.git ```
 
+[kodluyrouz foto] https://miro.medium.com/fit/c/262/262/2*TZeK0kyHTRHVv3gUi8BtQg.png
+
 # Usage
 Projeyi cloneladıktan sonra vs code programını açınız.
 Linux için:
